@@ -7,7 +7,7 @@ ____
 ### **BRANCH** : *COMPUTER SCIENCE*
  ### **SECTION** : *C2*
 ____
-
+### 1) To print your name using puts.
 ```C
 /* Program to print your name */
 
