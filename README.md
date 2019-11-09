@@ -8,8 +8,8 @@ ____
  ### **SECTION** : *C2*
 ____
 
-```
-  ### 1)  /* Program to print your name */
+```C
+/* Program to print your name */
 
 #include<stdio.h>
 int main() {
